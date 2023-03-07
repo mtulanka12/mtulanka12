@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mtulanka12
+- 👋 Hi, I’m Moshan Wijenayake
 - 👀 I’m interested in computer languages
 - 🌱 I’m currently learning Python machine learning
 - 💞️ I’m looking to collaborate on ...
